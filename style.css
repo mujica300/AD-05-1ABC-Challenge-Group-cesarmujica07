@@ -3,6 +3,7 @@ html {
   width: 100%;
 }
 
+<<<<<<< HEAD
 
 
 
@@ -16,4 +17,8 @@ html {
 .titulo_3_rojo{
 
   color:red;
+=======
+h3 {
+  color: green;
+>>>>>>> b7444b9fa061135e9b7f99c00068d90bd0f28e1c
 }
