@@ -19,4 +19,3 @@ function aplicarColoresAleatorios() {
 // Asigna el evento de clic a todas las etiquetas h5
 etiquetasH5.forEach((etiqueta) => {
   etiqueta.addEventListener('click', aplicarColoresAleatorios);
-});
